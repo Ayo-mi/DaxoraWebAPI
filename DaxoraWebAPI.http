@@ -1,0 +1,6 @@
+@DaxoraWebAPI_HostAddress = http://localhost:5133
+
+GET {{DaxoraWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
